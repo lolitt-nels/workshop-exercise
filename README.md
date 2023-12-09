@@ -8,11 +8,11 @@ In this workshop, we covered the following basics:
    - Learn how to install  Git.
    - Basic Git setup.
      
-2. **introduction to Git and its uses**
+2. **introduction to _Git_ and its uses**
    - Foundational understanding of Git
    - Understand the uses of Git.
 
-3. **GitHub Initialization**
+3. **_GitHub_ Initialization**
    - Learn how to create a new repository on GitHub.
    - Understand the importance of a README file.
 
